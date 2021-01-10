@@ -1,4 +1,5 @@
-import Nav from "./nav";
+import Nav from './nav';
+import React from 'react';
 
 const Layout = ({ children, categories, seo }) => (
   <React.Fragment>
